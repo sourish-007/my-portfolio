@@ -126,7 +126,7 @@ const Contact = () => {
               </div>
               <div>
                 <div className="text-sm font-medium text-white">Twitter</div>
-                <div className="text-xs text-gray-400">@sourish_dev</div>
+                <div className="text-xs text-gray-400">@_sourishsarkar_</div>
               </div>
             </a>
             <a 
